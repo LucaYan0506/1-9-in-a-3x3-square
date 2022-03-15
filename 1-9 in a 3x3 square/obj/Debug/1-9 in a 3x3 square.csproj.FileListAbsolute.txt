@@ -1,0 +1,10 @@
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\bin\Debug\1-9 in a 3x3 square.exe.config
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\bin\Debug\1-9 in a 3x3 square.exe
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\bin\Debug\1-9 in a 3x3 square.pdb
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\1-9 in a 3x3 square.csproj.AssemblyReference.cache
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\_1_9_in_a_3x3_square.Form1.resources
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\_1_9_in_a_3x3_square.Properties.Resources.resources
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\1-9 in a 3x3 square.csproj.GenerateResource.cache
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\1-9 in a 3x3 square.csproj.CoreCompileInputs.cache
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\1-9 in a 3x3 square.exe
+D:\School\IT\C#\1-9 in a 3x3 square\1-9 in a 3x3 square\obj\Debug\1-9 in a 3x3 square.pdb
