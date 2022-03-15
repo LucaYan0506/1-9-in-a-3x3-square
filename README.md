@@ -22,12 +22,13 @@ Microsoft Defender and other antivirus may block it because this app is an unpop
 then click "Run anyway"（rest assured, it is a safe app, all code can be seen [here](#))  
 ![image](https://user-images.githubusercontent.com/83918638/155171870-ee4f4330-7a32-4890-9c01-1deaccd2da12.png)  
 read it and keep clicking next  
-![image](https://user-images.githubusercontent.com/83918638/155172442-1344ee24-24a7-4e84-b87f-ddc6905d1476.png)  
+![image](https://user-images.githubusercontent.com/83918638/158462537-aa53bd5f-c4c4-4823-867d-bb0c51121de0.png)
 After the installation, a copy of it will be on desktop  
-![image](https://user-images.githubusercontent.com/83918638/155172596-6b4085df-703c-4ce3-a1bb-a22fee5c8b21.png)
+![image](https://user-images.githubusercontent.com/83918638/158462585-ebe8d677-4df9-49d1-b1c2-d51e3d7ca13d.png)
 
 ## How to use it
 It is a quite straightforward game. You have 9 numbers (1 to 9).  
 You have to put these number in the grid and the total sum of each column,row and diagonal should be 15.  
 You can move these numbers into the grid and check if you complete the puzzle or not by clicking the check button
+![image](https://user-images.githubusercontent.com/83918638/158462669-c6b310e8-2886-457c-829c-7e57bfc43986.png)
 
